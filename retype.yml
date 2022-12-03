@@ -1,0 +1,17 @@
+input: .
+output: .retype
+url: ccp.alukos.com
+generator:
+  trailingSlash: true
+branding:
+  logo: /static/aws-ccp.png
+links:
+  - text: Donate FIX ME
+    link: https://square.link/u/bXGBgSf6
+    target: blank
+  - text: Benefactors
+    link: benefactors.md
+    target: blank
+meta:
+  title: " | CCP by Alukos"
+poweredByRetype: false
