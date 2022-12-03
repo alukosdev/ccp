@@ -1,4 +1,5 @@
 ---
+category: Application Integration
 label: Amazon SNS
 ---
 
