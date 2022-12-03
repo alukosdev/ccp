@@ -1,9 +1,10 @@
 ---
 label: Domain 3
+order: 700
 ---
 
 :::banner
-The following domain objectives are derived from the [AWS Certificated Cloud Practitioner (CLF-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf){ target="_blank" }.
+The following Content Outline is derived from the [AWS Certified Cloud Practitioner (CLF-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf){ target="_blank" }.
 :::
 
 # Domain 3: Technology
