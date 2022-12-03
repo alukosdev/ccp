@@ -1,5 +1,6 @@
 ---
 category: Containers
+label: Amazon ECS
 ---
 
-# Amazon ECS
+# Amazon Elastic Container Service (Amazon ECS)

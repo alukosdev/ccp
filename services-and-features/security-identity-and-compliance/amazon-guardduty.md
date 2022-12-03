@@ -1,6 +1,6 @@
 ---
 category: Security, Identity, and Compliance
-order: 1000
+order: 400
 ---
 
-# AWS Artifact
+# Amazon GuardDuty

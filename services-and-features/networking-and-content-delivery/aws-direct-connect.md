@@ -1,6 +1,6 @@
 ---
 category: Networking and Content Delivery
-order: 1000
+order: 800
 ---
 
-# Amazon API Gateway
+# AWS Direct Connect

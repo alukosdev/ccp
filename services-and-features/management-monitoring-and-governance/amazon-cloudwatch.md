@@ -1,6 +1,6 @@
 ---
 category: Management, Monitoring, and Governance
-order: 1000
+order: 600
 ---
 
-# AWS Auto Scaling
+# AWS CloudWatch

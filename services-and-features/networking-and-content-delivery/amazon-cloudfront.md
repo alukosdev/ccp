@@ -1,6 +1,6 @@
 ---
 category: Networking and Content Delivery
-order: 1000
+order: 900
 ---
 
-# Amazon API Gateway
+# Amazon CloudFront

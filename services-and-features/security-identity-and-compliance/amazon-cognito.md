@@ -1,6 +1,6 @@
 ---
 category: Security, Identity, and Compliance
-order: 1000
+order: 600
 ---
 
-# AWS Artifact
+# Amazon Cognito

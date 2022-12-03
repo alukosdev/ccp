@@ -1,6 +1,6 @@
 ---
 category: Security, Identity, and Compliance
-order: 1000
+order: 700
 ---
 
-# AWS Artifact
+# AWS CloudHSM

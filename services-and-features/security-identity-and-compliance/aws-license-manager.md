@@ -1,6 +1,6 @@
 ---
 category: Security, Identity, and Compliance
-order: 1000
+order: 100
 ---
 
-# AWS Artifact
+# AWS License Manager

@@ -1,6 +1,6 @@
 ---
 category: Security, Identity, and Compliance
-order: 1000
+order: 200
 ---
 
-# AWS Artifact
+# Amazon Inspector

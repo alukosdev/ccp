@@ -1,6 +1,6 @@
 ---
 category: Security, Identity, and Compliance
-order: 1000
+order: 300
 ---
 
-# AWS Artifact
+# AWS Identity and Access Management (IAM)
